@@ -1,0 +1,18 @@
+[
+    {
+        "institution": "Ruprecht Karls Universität Heidelberg",
+        "city": "Heidelberg",
+        "country": "DE",
+        "degree": "Vordiplom",
+        "start_year": 2002,
+        "end_year": 2006
+    },
+    {
+        "institution": "ANU Research School of Astronomy and Astrophysics",
+        "city": "Weston Creek",
+        "country": "AU",
+        "degree": "PhD",
+        "start_year": 2007,
+        "end_year": 2011
+    }
+]

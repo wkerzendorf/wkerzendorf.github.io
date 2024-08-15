@@ -1,0 +1,17 @@
+{
+    "address": "567 Wilson Rd, East Lansing, MI 48824",
+    "phone": "",
+    "email": "wkerzend@msu.edu",
+    "useful_links": {
+        "TARDIS": "https://tardis-sn.github.io/",
+        "DTI": "https://deepthought-initiative.github.io"
+    },
+    "social_media_links": {
+        "github_handle": "wkerzendorf",
+        "twitter_handle": "wkerzendorf",
+        "linkedin_handle": "wolfgang-kerzendorf-598a0466",
+        "email": "wkerzend@msu.edu",
+        "orcid": "0000-0002-0479-7235"
+    },
+    "about_para": "I am an interdisciplinary researcher trying to bridge the fields of astrophysics and machine learning. I work as a Assistant Professor at the Department of Physics & Astronomy and Computational Mathematics, Statistics, & Engineering (Michigan State University) where I started in 2019. My group's website can be found at https://kerzendorf-lab.github.io/. I am the lead-author and PI of the open-source radiative transfer code TARDIS.I started my journey in beautiful Munich in southern Germany and finished my high-school there. My first alma-mater is the Universität Heidelberg where I studied till after my Vordiplom in physics. Fate and copious help by one of my first mentors - the late Rainer Wehrse - brought me to Mount Stromlo Observatory working with Brian Schmidt as a summer research scholar and later PhD. I finished my thesis, titled 'Type Ia Supernovae: Progenitors and explosions', in 2011. I then moved to the University of Toronto with Marten van Kerkwijk as a I was a Postdoctoral Research Fellow. From late 2014 to 2018 I was an ESO Fellow at the European Southern Observatory. I stayed at NYU (working in Maryam Modjaz's group) and the Flatiron institute until mid-2019."
+}

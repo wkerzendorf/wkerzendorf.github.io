@@ -1,0 +1,33 @@
+[
+    {
+        "institution": "University of Toronto",
+        "city": "Toronto",
+        "country": "CA",
+        "position": "Postdoctoral Fellow",
+        "start_year": 2011,
+        "end_year": 2014
+    },
+    {
+        "institution": "European Southern Observatory",
+        "city": "Garching",
+        "country": "DE",
+        "position": "ESO Fellow",
+        "start_year": 2014,
+        "end_year": 2018
+    },
+    {
+        "institution": "New York University",
+        "city": "New York",
+        "country": "US",
+        "position": "Senior Research Associate",
+        "start_year": 2019,
+        "end_year": 2019
+    },
+    {
+        "institution": "Michigan State University",
+        "city": "East Lansing",
+        "country": "US",
+        "position": "Assistant Professor",
+        "start_year": 2019
+    }
+]

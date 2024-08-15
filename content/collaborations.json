@@ -1,0 +1,27 @@
+[
+    {
+        "collaboration": "TARDIS collaboration",
+        "description": "PI Kerzendorf, Leading the group and liasing between the disciplines.",
+        "start_year": 2011
+    },
+    {
+        "collaboration": "Astropy collaboration",
+        "description": "Contributions to spectral analysis package and nddata.",
+        "start_year": 2011
+    },
+    {
+        "collaboration": "West African International Summerschool",
+        "description": "PI Strubbe, Instructor & Mentor.",
+        "start_year": 2013
+    },
+    {
+        "collaboration": "UCLA Galactic Center Group",
+        "description": "PI Ghez, Expert on Stellar Abundance measurements",
+        "start_year": 2014
+    },
+    {
+        "collaboration": "ePessto collaboration",
+        "description": "PI Smartt, Faint & fast transient group.",
+        "start_year": 2017
+    }
+]

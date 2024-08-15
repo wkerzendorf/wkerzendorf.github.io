@@ -1,0 +1,27 @@
+[
+    {
+        "year": 2007,
+        "award": "ANU Vice Chancellor's Special Award",
+        "institution": "Mt Stromlo Observatory"
+    },
+    {
+        "year": 2011,
+        "award": "ANU Vice Chancellor's Special Award",
+        "institution": "Mt Stromlo Observatory"
+    },
+    {
+        "year": 2014,
+        "award": "ESO Fellowship",
+        "institution": "European Southern Observatory, Garching, Germany"
+    },
+    {
+        "year": 2019,
+        "award": "Scialog Fellow, Time Domain Astronomy",
+        "institution": "Research Corporation for Science Advancement, US"
+    },
+    {
+        "year": 2020,
+        "award": "TARDIS becomes NumFOCUS sponsored project",
+        "institution": "NumFOCUS, US"
+    }
+]
